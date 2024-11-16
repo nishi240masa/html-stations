@@ -1,7 +1,7 @@
-.body {
+body {
   background-color: #c4c4c4;
 }
-.header {
+header {
   background-color: #ffffff;
 }
 
@@ -23,6 +23,6 @@
   width: 288px;
   margin-bottom: 10px;
 }
-.footer {
+footer {
   background-color: #ffffff;
 }
